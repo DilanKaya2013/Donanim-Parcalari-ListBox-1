@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\bin\Debug\Donanım-Parçaları-ListBox1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\bin\Debug\Donanım-Parçaları-ListBox1.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\bin\Debug\Donanım-Parçaları-ListBox1.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\obj\Debug\Donanım-Parçaları-ListBox1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\obj\Debug\Donanım-Parçaları-ListBox1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\obj\Debug\Donanım_Parçaları_ListBox1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\obj\Debug\Donanım_Parçaları_ListBox1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\obj\Debug\Donanım-Parçaları-ListBox1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\obj\Debug\Donanım-Parçaları-ListBox1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\obj\Debug\Donanım-Parçaları-ListBox1.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Donanım-Parçaları-ListBox1\Donanım-Parçaları-ListBox1\obj\Debug\Donanım-Parçaları-ListBox1.pdb
